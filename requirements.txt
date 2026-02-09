@@ -1,5 +1,5 @@
 streamlit
 google-generativeai
-ddgs>=2.0.0
+duckduckgo-search
 python-dotenv
 Pillow
